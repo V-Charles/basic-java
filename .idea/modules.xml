@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/basic-java.iml" filepath="$PROJECT_DIR$/.idea/basic-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_estrutura_sequencial/ex01_basic-calculator-java/ex01_basic-calculator-java.iml" filepath="$PROJECT_DIR$/1_estrutura_sequencial/ex01_basic-calculator-java/ex01_basic-calculator-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_estrutura_condicional/ex01_negative-number-check/ex01_negative-number-check.iml" filepath="$PROJECT_DIR$/2_estrutura_condicional/ex01_negative-number-check/ex01_negative-number-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_estrutura_sequencial/ex02_circle-area-calculator-java/ex02_circle-area-calculator-java.iml" filepath="$PROJECT_DIR$/1_estrutura_sequencial/ex02_circle-area-calculator-java/ex02_circle-area-calculator-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_estrutura_condicional/ex02_even-or-odd/ex02_even-or-odd.iml" filepath="$PROJECT_DIR$/2_estrutura_condicional/ex02_even-or-odd/ex02_even-or-odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_estrutura_sequencial/ex03_difference-of-products-java/ex03_difference-of-products-java.iml" filepath="$PROJECT_DIR$/1_estrutura_sequencial/ex03_difference-of-products-java/ex03_difference-of-products-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_estrutura_condicional/ex03_multiples-check/ex03_multiples-check.iml" filepath="$PROJECT_DIR$/2_estrutura_condicional/ex03_multiples-check/ex03_multiples-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_estrutura_sequencial/ex04_employee-salary-java/ex04_employee-salary-java.iml" filepath="$PROJECT_DIR$/1_estrutura_sequencial/ex04_employee-salary-java/ex04_employee-salary-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_estrutura_sequencial/ex05_sales-calculation/ex05_sales-calculation.iml" filepath="$PROJECT_DIR$/1_estrutura_sequencial/ex05_sales-calculation/ex05_sales-calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_estrutura_sequencial/ex06_areas-calculations/ex06_areas-calculations.iml" filepath="$PROJECT_DIR$/1_estrutura_sequencial/ex06_areas-calculations/ex06_areas-calculations.iml" />
+    </modules>
+  </component>
+</project>

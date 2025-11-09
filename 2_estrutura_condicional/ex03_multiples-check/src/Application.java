@@ -8,7 +8,7 @@ public class Application {
         System.out.println("Enter two integer values:");
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
-        
+
         if (num2 == 0) {
             System.out.println("Please note that division by zero is not possible.");
         } else if (num1 % num2 == 0 || num2 % num1 == 0) {
